@@ -23,3 +23,4 @@ urlpatterns = [
     path('accounts/',include('accounts.urls')),
     path('',include('blog.urls')),
 ]
+# kjgjghjhvfj
